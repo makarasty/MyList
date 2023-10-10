@@ -9,9 +9,9 @@
       "type": "coreclr",
       "request": "launch",
       //"preLaunchTask": "build",
-      "program": "${workspaceFolder}/MyList/bin/Debug/net7.0/MyList.dll",
+      "program": "${workspaceFolder}/MyLinkedList/bin/Debug/net7.0/MyLinkedList.dll",
       "args": [],
-      "cwd": "${workspaceFolder}/MyList",
+      "cwd": "${workspaceFolder}/MyLinkedList",
       "console": "integratedTerminal",
       "stopAtEntry": false
     }
