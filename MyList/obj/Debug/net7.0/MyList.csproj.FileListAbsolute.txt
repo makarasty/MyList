@@ -1,0 +1,14 @@
+C:\Users\MKY\Desktop\CSharp Projects\MyList\MyList\obj\Debug\net7.0\MyList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MKY\Desktop\CSharp Projects\MyList\MyList\obj\Debug\net7.0\MyList.AssemblyInfoInputs.cache
+C:\Users\MKY\Desktop\CSharp Projects\MyList\MyList\obj\Debug\net7.0\MyList.AssemblyInfo.cs
+C:\Users\MKY\Desktop\CSharp Projects\MyList\MyList\obj\Debug\net7.0\MyList.csproj.CoreCompileInputs.cache
+C:\Users\MKY\Desktop\CSharp Projects\MyList\MyList\bin\Debug\net7.0\MyList.exe
+C:\Users\MKY\Desktop\CSharp Projects\MyList\MyList\bin\Debug\net7.0\MyList.deps.json
+C:\Users\MKY\Desktop\CSharp Projects\MyList\MyList\bin\Debug\net7.0\MyList.runtimeconfig.json
+C:\Users\MKY\Desktop\CSharp Projects\MyList\MyList\bin\Debug\net7.0\MyList.dll
+C:\Users\MKY\Desktop\CSharp Projects\MyList\MyList\bin\Debug\net7.0\MyList.pdb
+C:\Users\MKY\Desktop\CSharp Projects\MyList\MyList\obj\Debug\net7.0\MyList.dll
+C:\Users\MKY\Desktop\CSharp Projects\MyList\MyList\obj\Debug\net7.0\refint\MyList.dll
+C:\Users\MKY\Desktop\CSharp Projects\MyList\MyList\obj\Debug\net7.0\MyList.pdb
+C:\Users\MKY\Desktop\CSharp Projects\MyList\MyList\obj\Debug\net7.0\MyList.genruntimeconfig.cache
+C:\Users\MKY\Desktop\CSharp Projects\MyList\MyList\obj\Debug\net7.0\ref\MyList.dll
